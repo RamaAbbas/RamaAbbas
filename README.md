@@ -33,5 +33,5 @@ Modular backend system supporting HR, sales, accounting, and operational workflo
 Backend services for a housing platform including platform logic and recommendation-related features.
 
 ## Contact
-- LinkedIn: [Add your LinkedIn link here]
-- Email: [Add your email here]
+- LinkedIn: /in/rama-abbas-28a9b0223/
+- Email: ramaabbasit4@gmail.com
