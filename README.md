@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Rama Abbas
 
-<!--
-**RamaAbbas/RamaAbbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer with 5 years of experience building and owning backend systems for startups and digital products.
 
-Here are some ideas to get you started:
+## About Me
+- Backend-focused engineer specialized in PHP, Laravel, and Symfony
+- Experienced in APIs, payments, marketplaces, and real-time systems
+- Strong background in database design, performance optimization, queues, and caching
+- Comfortable working in fast-moving teams and owning production features end to end
+- Based in Germany
+- Languages: Arabic (Native), English (Professional), German (A2, actively learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Backend:** PHP 8, Laravel, Symfony, REST APIs, WebSockets, OOP, Design Patterns
+- **Databases:** MySQL, PostgreSQL, Redis
+- **DevOps & Tooling:** Docker, GitHub Actions, GitLab CI, Linux, Nginx, Apache, PHP-FPM
+- **Other:** Stripe, OAuth, Firebase, RBAC, Swagger/OpenAPI, Webhooks
+
+## Experience Highlights
+- Built backend features for a multi-sided marketplace including payments, access control, and real-time flows
+- Led backend delivery and architecture as Backend Team Lead
+- Developed a modular ERP platform supporting 14+ departments
+- Built core backend services for a ride-hailing platform
+
+## Featured Projects
+### Multi-sided Marketplace Backend
+Backend APIs and services for marketplace operations, payments, user permissions, and real-time communication.
+
+### ERP Platform
+Modular backend system supporting HR, sales, accounting, and operational workflows.
+
+### Home-exchange Platform
+Backend services for a housing platform including platform logic and recommendation-related features.
+
+## Contact
+- LinkedIn: [Add your LinkedIn link here]
+- Email: [Add your email here]
