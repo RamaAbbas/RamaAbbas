@@ -1,9 +1,10 @@
 # Hi, I'm Rama Abbas
 
-Backend Software Engineer with 5 years of experience building and owning backend systems for startups and digital products.
+Full-stack Software Engineer with 5 years of experience building and owning systems for startups and digital products.
 
 ## About Me
 - Backend-focused engineer specialized in PHP, Laravel, and Symfony
+- Experienced in HTML/CSS/JavaScript and UI engineering.
 - Experienced in APIs, payments, marketplaces, and real-time systems
 - Strong background in database design, performance optimization, queues, and caching
 - Comfortable working in fast-moving teams and owning production features end to end
@@ -12,6 +13,7 @@ Backend Software Engineer with 5 years of experience building and owning backend
 
 ## Tech Stack
 - **Backend:** PHP 8, Laravel, Symfony, REST APIs, WebSockets, OOP, Design Patterns
+- **Frontend:** HTML, CSS, JS.
 - **Databases:** MySQL, PostgreSQL, Redis
 - **DevOps & Tooling:** Docker, GitHub Actions, GitLab CI, Linux, Nginx, Apache, PHP-FPM
 - **Other:** Stripe, OAuth, Firebase, RBAC, Swagger/OpenAPI, Webhooks
